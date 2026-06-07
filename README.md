@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hola, soy Thiago 👋
 
-<!--
-**Crack555titi/Crack555titi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tuti** para los amigos.
 
-Here are some ideas to get you started:
+Soy estudiante de informática y un apasionado de la tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+...
+
+<details>
+<summary>🇺🇸 English Version</summary>
+
+# Hi, I'm Thiago 👋
+
+**Tuti** for friends.
+
+I'm an IT student passionate about technology.
+
+Currently, I'm focusing on Networking with the goal of specializing in Cybersecurity, but I'm always open to different kinds of projects because I love programming and learning new technologies.
+
+## 🚀 Technologies
+
+- C
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## 🛠 Tools
+
+- VS Code
+- GitHub Desktop
+
+## 📚 Currently
+
+- Learning Networking fundamentals
+- Exploring Cybersecurity
+- Building personal projects
+- Expanding my programming skills
+
+## 🎯 Goals
+
+- Deepen my Networking knowledge
+- Specialize in Cybersecurity
+- Contribute to interesting projects
+- Keep growing as a developer
+
+</details>
