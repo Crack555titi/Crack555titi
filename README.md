@@ -1,23 +1,16 @@
 # Hola, soy Thiago 👋
 
-**Tuti** para los amigos.
+Aunque muchos me conocen como **Tuti**.
 
-Soy estudiante de informática y un apasionado de la tecnología.
+Soy estudiante de informática y me encanta todo lo relacionado con la tecnología. Siempre estoy buscando aprender algo nuevo, experimentar con proyectos y seguir mejorando mis habilidades.
 
-...
+## ¿Qué estoy haciendo ahora?
 
-<details>
-<summary>🇺🇸 English Version</summary>
+Actualmente estoy aprendiendo sobre **Redes** con la idea de especializarme en **Ciberseguridad** en el futuro.
 
-# Hi, I'm Thiago 👋
+Aun así, me gusta explorar distintas áreas del desarrollo, participar en proyectos y programar cualquier cosa que me parezca interesante.
 
-**Tuti** for friends.
-
-I'm an IT student passionate about technology.
-
-Currently, I'm focusing on Networking with the goal of specializing in Cybersecurity, but I'm always open to different kinds of projects because I love programming and learning new technologies.
-
-## 🚀 Technologies
+## Cosas con las que suelo trabajar
 
 - C
 - HTML
@@ -25,23 +18,56 @@ Currently, I'm focusing on Networking with the goal of specializing in Cybersecu
 - JavaScript
 - Python
 
-## 🛠 Tools
+## Mis herramientas favoritas
 
-- VS Code
+- Visual Studio Code
 - GitHub Desktop
+- Git
 
-## 📚 Currently
+## Lo que me gustaría lograr
 
-- Learning Networking fundamentals
-- Exploring Cybersecurity
-- Building personal projects
-- Expanding my programming skills
+- Aprender más sobre infraestructura y redes.
+- Seguir creciendo como desarrollador.
+- Adquirir experiencia en ciberseguridad.
+- Participar en proyectos desafiantes.
 
-## 🎯 Goals
+---
 
-- Deepen my Networking knowledge
-- Specialize in Cybersecurity
-- Contribute to interesting projects
-- Keep growing as a developer
+> "Siempre hay algo nuevo para aprender."
+<details>
+<summary>🇺🇸 Read in English</summary>
+
+# Hi, I'm Thiago 👋
+
+Most people call me **Tuti**.
+
+I'm an IT student who enjoys technology, programming, and learning new things.
+
+## What am I working on?
+
+Right now I'm focusing on **Networking** with the goal of moving into **Cybersecurity** in the future.
+
+At the same time, I'm always interested in building projects and exploring different areas of software development.
+
+## Things I usually work with
+
+- C
+- HTML
+- CSS
+- JavaScript
+- Python
+
+## My favorite tools
+
+- Visual Studio Code
+- GitHub Desktop
+- Git
+
+## Goals
+
+- Improve my networking knowledge.
+- Grow as a developer.
+- Learn more about cybersecurity.
+- Contribute to interesting projects.
 
 </details>
