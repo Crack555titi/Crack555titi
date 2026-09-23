@@ -16,22 +16,14 @@ Aun así, me gusta explorar distintas áreas del desarrollo, participar en proye
 - HTML
 - CSS
 - JavaScript
+- PHP
 - Python
-
-## Mis herramientas favoritas
-
-- Visual Studio Code
-- GitHub Desktop
-- Git
-
 ## Lo que me gustaría lograr
 
 - Aprender más sobre infraestructura y redes.
 - Seguir creciendo como desarrollador.
 - Adquirir experiencia en ciberseguridad.
 - Participar en proyectos desafiantes.
-
----
 
 > "Siempre hay algo nuevo para aprender."
 <details>
@@ -55,13 +47,8 @@ At the same time, I'm always interested in building projects and exploring diffe
 - HTML
 - CSS
 - JavaScript
+- PHP
 - Python
-
-## My favorite tools
-
-- Visual Studio Code
-- GitHub Desktop
-- Git
 
 ## Goals
 
