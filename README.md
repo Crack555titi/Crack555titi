@@ -9,7 +9,8 @@ Soy estudiante de informática y me encanta todo lo relacionado con la tecnolog�
 Actualmente estoy aprendiendo sobre **Redes** con la idea de especializarme en **Ciberseguridad** en el futuro.
 
 Aun así, me gusta explorar distintas áreas del desarrollo, participar en proyectos y programar cualquier cosa que me parezca interesante.
-
+Feliz de anunciar mi ccna certification!
+[![CCNA 2](https://img.shields.io/badge/Cisco-CCNA%202%3A%20SRWE-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/d478dac2-6032-403b-a375-f074a5e8207d/public_url)
 ## Cosas con las que suelo trabajar
 
 - C
@@ -25,7 +26,7 @@ Aun así, me gusta explorar distintas áreas del desarrollo, participar en proye
 - Adquirir experiencia en ciberseguridad.
 - Participar en proyectos desafiantes.
 
-> "Siempre hay algo nuevo para aprender."
+> "Gracias por leer see u"
 <details>
 <summary>🇺🇸 Read in English</summary>
 
@@ -35,12 +36,16 @@ Most people call me **Tuti**.
 
 I'm an IT student who enjoys technology, programming, and learning new things.
 
+Happy to anounce my CCNA2 CERTIFICATEd
+
 ## What am I working on?
 
 Right now I'm focusing on **Networking** with the goal of moving into **Cybersecurity** in the future.
 
 At the same time, I'm always interested in building projects and exploring different areas of software development.
 
+Happy to announce that I've earned my CCNA 2 certification!
+[![CCNA 2](https://img.shields.io/badge/Cisco-CCNA%202%3A%20SRWE-049FD9?style=for-the-badge&logo=cisco&logoColor=white)](https://www.credly.com/badges/d478dac2-6032-403b-a375-f074a5e8207d/public_url)
 ## Things I usually work with
 
 - C
@@ -57,4 +62,5 @@ At the same time, I'm always interested in building projects and exploring diffe
 - Learn more about cybersecurity.
 - Contribute to interesting projects.
 
+>"Thanks for reading see u later"
 </details>
